@@ -1,4 +1,4 @@
-// write a program to implement linked list operation(creation,insertion,deletion,reversing)
+// Write a program to implement linked list operation(creation,insertion,deletion,reversing)
 
 #include <stdio.h>
 #include <stdlib.h>
